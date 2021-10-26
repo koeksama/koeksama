@@ -1,6 +1,6 @@
 👋 Hi, I’m @koeksama
-I'm studying a few code langluages at school. I think you could say that I am becomming a "Jack of all traits but a master of none{yet}".
-If you want to do a project together 💞️ contact me and we will see.
+Currently I am studying a few code langluages at school. Becomming a "Jack of all traits but a master of none isn't what I plan on doing and making my own hardware like RFID doorlocks and such is just my thing.
+If you want to do a project together 💞️ contact me and we will see what we can conjour.
 
 📫
 github: @koeksama
